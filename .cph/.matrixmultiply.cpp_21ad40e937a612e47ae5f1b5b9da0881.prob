@@ -1,0 +1,1 @@
+{"name":"Local: matrixmultiply","url":"d:\\C++\\Cpp-Day-8\\matrixmultiply.cpp","tests":[{"id":1725922569086,"input":"3 4 3\n2 4 1 2\n8 4 3 6 \n1 7 9 5 \n1 2 3 \n4 5 6 \n6 7 8 \n4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Cpp-Day-8\\matrixmultiply.cpp","group":"local","local":true}
